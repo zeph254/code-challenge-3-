@@ -1,0 +1,39 @@
+h1{
+    background-color: rgb(204, 171, 171);
+    text-align: center;
+}
+#master h3{
+    background-color: aqua;
+    text-align: center;
+}
+#master p{
+    text-align: center;
+}
+#master img{
+    margin-left: 500px ;
+}
+#play h3{
+    text-align: center;
+    background-color: aqua;
+}
+#play p{
+    text-align: center;
+
+}
+#play img{
+    margin-left: 500px;
+}
+#run h3{
+    text-align: center;
+    background-color: aqua;
+}
+#run p{
+    text-align: center;
+}
+#jump h3{
+    text-align: center;
+    background-color: aqua;
+}
+#jump p{
+    text-align: center;
+}
