@@ -1,0 +1,44 @@
+{
+  "games": [
+    {
+      "id": "2",
+      "title": "Game Title 2",
+      "description": "This is a description for Game Title 2.",
+      "img_url": "https://example.com/image2.jpg",
+      "author": "Jane Smith",
+      "date": "2023-10-15",
+      "game_url": "https://example.com/game2",
+      "email": "janesmith@example.com"
+    },
+    {
+      "id": "adb3",
+      "title": "Zeph",
+      "description": "sdfghj",
+      "img_url": "https://picsum.photos/seed/picsum/200/300",
+      "author": "mrfmirf",
+      "email": "ularezephaniah@gmail.com",
+      "date": "2024-10-10",
+      "game_url": "https://www.crazygames.com/game/rough-ball-kvz"
+    },
+    {
+      "id": "aab6",
+      "title": "Zeph",
+      "description": "ertyuiop",
+      "img_url": "https://picsum.photos/seed/picsum/200/300",
+      "author": "mrfmirf",
+      "email": "ularezephaniah@gmail.com",
+      "date": "2024-10-03",
+      "game_url": "https://www.gog.com/en/game/cyberpunk_2077_phantom_liberty"
+    },
+    {
+      "id": "625a",
+      "title": "Zeph",
+      "description": "ertyuiop",
+      "img_url": "https://picsum.photos/seed/picsum/200/300",
+      "author": "mrfmirf",
+      "email": "ularezephaniah@gmail.com",
+      "date": "2024-10-03",
+      "game_url": "https://www.gog.com/en/game/cyberpunk_2077_phantom_liberty"
+    }
+  ]
+}
